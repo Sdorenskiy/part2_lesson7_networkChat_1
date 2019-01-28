@@ -1,0 +1,12 @@
+
+ssquid:S00116"ORename this field "PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œùæ¤øÿÿÿÿ8Üµ»©ý,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(î›Úšýÿÿÿÿ8Üµ»©ý,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èÿþœúÿÿÿÿ8Üµ»©ý,
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Üµ»©ý,
+Fsquid:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Üµ»©ý,
+ˆsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»¦ÚØúÿÿÿÿ8Üµ»©ý,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ý“ £úÿÿÿÿ8Üµ»©ý,
+Dsquid:S1170"!Make this final field static too.(Œùæ¤øÿÿÿÿ8Üµ»©ý,

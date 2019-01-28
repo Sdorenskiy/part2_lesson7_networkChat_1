@@ -1,0 +1,17 @@
+
+Fsquid:S1148T"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8€Έ»©ύ,
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ν„Ò³όÿÿÿÿ8€Έ»©ύ,
+Fsquid:S1148A"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8€Έ»©ύ,
+jsquid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(―ΫΙρύÿÿÿÿ8€Έ»©ύ,
+Msquid:S1068
+"*Remove this unused "socket" private field.(Ε’¬Ϊώÿÿÿÿ8€Έ»©ύ,
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(φªψÿÿÿÿÿ8―α¦ώ,
+Jsquid:S1068	",Remove this unused "myServer" private field.(ƒθ8€Έ»©ύ,
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Ή…8φΉ±ύ,
+U
+squid:S1064"9Replace this use of System.out or System.err by a logger.(γαμ\8Χ¥•¥ώ,
+Fsquid:S1148H"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8€Έ»©ύ,
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(”…—ξ8·±ύ,

@@ -1,0 +1,29 @@
+
+Lsquid:S1068"/Remove this unused "SERVER_ADDR" private field.(ñÊİ:8Íª¾­ı,
+{
+squid:S135k"YReduce the total number of break and continue statements in this loop to use at most one.(”İŠòüÿÿÿÿ8­÷Ÿ ƒ-
+Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“âƒ ƒ-
+Csquid:S1948"%Make "out" transient or serializable.(Ö™÷Í8Íª¾­ı,
+osquid:S3776)"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ú¡­,8æää™ƒ-
+Fsquid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…»ë ƒ-
+Esquid:S1604^"(Make this anonymous inner class a lambda(şÏ®58“âƒ ƒ-
+Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“âƒ ƒ-
+Fsquid:S1148}"#Use a logger to log this exception.(µÎ¡øÿÿÿÿ8“âƒ ƒ-
+V
+squid:S106y"9Replace this use of System.out or System.err by a logger.(íúÇ‹8“âƒ ƒ-
+Qsquid:S14810".Remove this unused "beginTime" local variable.(”ÇŒ¿şÿÿÿÿ8ÄÒ‰Ÿƒ-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.( ˜ñ¹ùÿÿÿÿ8“âƒ ƒ-
+W
+squid:S106•"9Replace this use of System.out or System.err by a logger.(–Ú©ï8“âƒ ƒ-
+dsquid:S2142o"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8…»ë ƒ-
+Gsquid:S1948"$Make "in" transient or serializable.(Ÿªôéşÿÿÿÿ8Íª¾­ı,
+Fsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“âƒ ƒ-
+¦squid:S2681†"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ßËù8“âƒ ƒ-
+tsquid:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(Ÿªôéşÿÿÿÿ8ÆÌ˜ ƒ-
+>squid:S1170"!Make this final field static too.(ñÊİ:8Íª¾­ı,
+Gsquid:S1125“"(Remove the literal "true" boolean value.(ıØÄÒ8“âƒ ƒ-
+tsquid:S00116"VRename this field "SERVER_ADDR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÊİ:8Íª¾­ı,
+Ksquid:S1948"(Make "socket" transient or serializable.(Å’¬Úşÿÿÿÿ8Íª¾­ı,
+W
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ï¯8°ôÃ‘ƒ-

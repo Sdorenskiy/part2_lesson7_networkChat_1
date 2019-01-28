@@ -1,0 +1,4 @@
+
+msquid:UselessImportCheck"BRemove this unused import 'ru.dorenskiy.javacore.Server.MyServer'.(åÉ¿È8’ê­ı,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£¹Ÿ‰üÿÿÿÿ8÷‰®ı,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê¡»

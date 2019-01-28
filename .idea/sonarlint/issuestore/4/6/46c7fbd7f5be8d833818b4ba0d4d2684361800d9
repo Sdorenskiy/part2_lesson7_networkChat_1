@@ -1,0 +1,20 @@
+
+Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û˜¼­ı,
+Fsquid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û˜¼­ı,
+>squid:S1170"!Make this final field static too.(ñÊİ:8Íª¾­ı,
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(–Ú©ï8ÄÂÙ­ı,
+Lsquid:S1068"/Remove this unused "SERVER_ADDR" private field.(ñÊİ:8Íª¾­ı,
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ï¯8ÄÂÙ­ı,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê¡»
+Fsquid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û˜¼­ı,
+Csquid:S1948"%Make "out" transient or serializable.(Ö™÷Í8Íª¾­ı,
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ö…´Šùÿÿÿÿ8ÏÊÉ°ı,
+Esquid:S1604T"(Make this anonymous inner class a lambda(şÏ®58ÆÃ¬­ı,
+Gsquid:S1948"$Make "in" transient or serializable.(Ÿªôéşÿÿÿÿ8Íª¾­ı,
+Fsquid:S1125g"(Remove the literal "true" boolean value.(ıØÄÒ8ÄÂÙ­ı,
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.( ˜ñ¹ùÿÿÿÿ8•±­ı,
+tsquid:S00116"VRename this field "SERVER_ADDR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÊİ:8Íª¾­ı,
+Ksquid:S1948"(Make "socket" transient or serializable.(Å’¬Úşÿÿÿÿ8Íª¾­ı,
